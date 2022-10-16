@@ -6,3 +6,4 @@ dist
 .cache
 .parcel-cache
 public
+static/styles/style.css
