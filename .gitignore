@@ -8,3 +8,5 @@ dist
 public
 static/styles/style.css
 content/members/*.md
+
+.env
