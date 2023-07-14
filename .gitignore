@@ -5,7 +5,7 @@ node_modules
 dist
 .cache
 .parcel-cache
-public
+#public
 static/styles/style.css
 content/members/*.md
 
