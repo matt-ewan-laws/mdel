@@ -1,3 +1,3 @@
 ---
-title: Homer
+title: Home
 ---

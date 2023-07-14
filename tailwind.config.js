@@ -1,6 +1,6 @@
 module.exports = {
   content: ['./src/**/*.{css|js}', './templates/**/*.html'],
-  darkMode: false, // or 'media' or 'class'
+  darkMode: 'dark',
   theme: {
     extend: {},
   },
@@ -8,4 +8,7 @@ module.exports = {
   extend: {},
   },
   plugins: [require('daisyui')],
+  daisyui: {
+    themes: ["retro", "cupcake"]
+  }
 };
