@@ -9,11 +9,16 @@ function updateLocalStorage() {
   }
 }
 
-
 document.addEventListener('DOMContentLoaded', function() {
   const darkModeCheckbox = document.querySelectorAll('.darkModeCheckbox');
+
   darkModeCheckbox.forEach(el => {
     el.addEventListener('change', updateLocalStorage);
+    if (localStorage.getItem('data-theme') == 'dark') {
+      darkModeCheckbox.checked = true
+    } else {
+      darkModeCheckbox.checked = false
+    }
   })
 
   // Set theme on page load based on localStorage value
