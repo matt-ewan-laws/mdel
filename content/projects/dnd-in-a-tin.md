@@ -32,11 +32,13 @@ I have settled on a single sided A4 printable that can be folded into an 8 page 
 
 Sure it doesn't look as professional, but, function over form.
 
+Anyway, a couple of preview images:
+
+![Page 3, ability scores: dexterity, wisdom, and charisma, with their saves, and skills that are associated with them](/images/Page-3.png)
+
+![Page 4, various other stats, armour class, initiative, speed, HP (temporary and maximum,) passive perception, hit dice, inspration, custom trackers](/images/Page-4.png)
+
 It is licensed with CC BY-SA 4.0
-
-![Page 3](/images/page-3.png)
-
-![Page 4](/images/page-4.png)
 
 #### Downloads
 
