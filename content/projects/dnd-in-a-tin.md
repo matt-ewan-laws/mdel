@@ -2,6 +2,8 @@
 title: D&D in a Tin
 ---
 
+A fun little project I am working on.
+
 ## Elevator pitch
 
 Say you're out camping with your D&D buddies, and you all wanted to play, you bring along
