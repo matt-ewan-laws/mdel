@@ -34,6 +34,10 @@ Sure it doesn't look as professional, but, function over form.
 
 It is licensed with CC BY-SA 4.0
 
+![Page 3](/images/page-3.png)
+
+![Page 4](/images/page-4.png)
+
 #### Downloads
 
 - [PDF](/booklet.pdf)
