@@ -18,7 +18,13 @@ Well — look no further, I have your solution.
 
 ## How do I get this?
 
-I don't actually have anything to sell right now. [See below](#character-sheet) for the character sheet. The rest you'll have to purchase for yourself.
+I don't actually have anything to sell right now. [See here](#character-sheet) for the character sheet.
+
+The rest you'll have to purchase for yourself.
+
+Which I get is a pain as most of these things make sense buying in bulk. So it might be worth it talking to your group and all pitching in to get a set.
+
+If you're in the UK and really want to get this, DM me on [Mastodon](https://dice.camp/@hedgepig) and we'll see what I can do.
 
 ## Details
 
