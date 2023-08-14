@@ -16,7 +16,11 @@ Imagine instead, you could store what you need in a 9x6.5x2.4cm (~3.5x2.5x1 inch
 
 Well — look no further, I have your solution.
 
-## Parts
+## How do I get this?
+
+I don't actually have anything to sell right now. [See below](#character-sheet) for the character sheet. The rest you'll have to purchase for yourself.
+
+## Details
 
 ### Character sheet
 
@@ -60,10 +64,6 @@ Though I haven't tested (I am a heathen and don't have a set of polyhedral dice,
 Stuff needs rubbing out.
 
 Pencils go blunt.
-
-## How do I get this?
-
-I don't actually have anything to sell right now. [See below](#character-sheet) for the character sheet. The rest you'll have to purchase for yourself.
 
 ## Ongoing
 
