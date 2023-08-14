@@ -2,8 +2,6 @@
 title: D&D in a Tin
 ---
 
-A fun little project I am working on.
-
 ## Elevator pitch
 
 Say you're out camping with your D&D buddies, and you all wanted to play, you bring along
@@ -29,8 +27,6 @@ I have settled on a single sided A4 printable that can be folded into an 8 page 
 Sure it doesn't look as professional, but, function over form.
 
 Anyway, a couple of preview images:
-
-![Page 3, ability scores: dexterity, wisdom, and charisma, with their saves, and skills that are associated with them](/images/Page-3.png)
 
 ![Page 4, various other stats, armour class, initiative, speed, HP (temporary and maximum,) passive perception, hit dice, inspration, custom trackers](/images/Page-4.png)
 
@@ -59,8 +55,22 @@ A little superfluous, but tiny pencils are annoying, this makes it easier to wri
 
 Though I haven't tested (I am a heathen and don't have a set of polyhedral dice, instead relying on digital dice) I am guessing full sized dice would not fit very well, and it seems thematically appropriate to buy smaller dice for this project.
 
+### Eraser and Sharpener
+
+Stuff needs rubbing out.
+
+Pencils go blunt.
+
+## How do I get this?
+
+I don't actually have anything to sell right now. [See below](#character-sheet) for the character sheet. The rest you'll have to purchase for yourself.
+
 ## Ongoing
 
 I feel like the character sheet is coming nearly to the point where I am happy with it as a deliverable.
 
 The next step is other class specific templates, spells for example.
+
+### Spell Cards
+
+My plan is to make a tool that allows a double page to be printed with spell information. I can pull content from the SRD, and allow custom spell information to be specified.
