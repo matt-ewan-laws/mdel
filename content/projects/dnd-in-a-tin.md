@@ -24,7 +24,7 @@ The rest you'll have to purchase for yourself.
 
 Which I get is a pain as most of these things make sense buying in bulk. So it might be worth it talking to your group and all pitching in to get a set.
 
-If you're in the UK and really want to get this, DM me on [Mastodon](https://dice.camp/@hedgepig) and we'll see what I can do.
+If you're in the UK and really want to get this, DM me on [Mastodon](https://dice.camp/@hedgepig) and we'll see what I can do. £10 include postage and packaging would cover it.
 
 ## Details
 
