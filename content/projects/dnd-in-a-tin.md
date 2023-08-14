@@ -26,7 +26,7 @@ I have settled on a single sided A4 printable that can be folded into an 8 page 
 
 Sure it doesn't look as professional, but, function over form.
 
-Anyway, a couple of preview images:
+Anyway, here is what a page looks like:
 
 ![Page 4, various other stats, armour class, initiative, speed, HP (temporary and maximum,) passive perception, hit dice, inspration, custom trackers](/images/Page-4.png)
 
