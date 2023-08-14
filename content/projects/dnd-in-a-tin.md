@@ -20,12 +20,6 @@ Well — look no further, I have your solution.
 
 ## Parts
 
-### The Tin 
-
-I mean, it's part of the name, it can't be too small else it isn't practical, too big and it defeats the point of the project. I think the size above hits a sweat spot. At least I *hope* it does, I've bought 10 of them. 
-
-I've chosen a tin without a hinged so that it can double up as a dice tray and writing surface.
-
 ### Character sheet
 
 This is something I have worked on the most. It's gone through various iterations.
@@ -46,6 +40,12 @@ It is licensed with CC BY-SA 4.0
 
 - [PDF](/booklet.pdf)
 - [SVG](/images/dnd5e-character-sheet-v0.3.1.svg)
+
+### The Tin 
+
+I mean, it's part of the name, it can't be too small else it isn't practical, too big and it defeats the point of the project. I think the size above hits a sweat spot. At least I *hope* it does, I've bought 10 of them. 
+
+I've chosen a tin without a hinged so that it can double up as a dice tray and writing surface.
 
 ### Small Pencil
 
